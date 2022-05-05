@@ -3,7 +3,7 @@ const _15_0 = [
 		return '-' + _15_0;
 	},
 	function(_15_0) {
-		let _15_1 = _15_0.length;
+		const _15_1 = _15_0.length;
 		let _15_2 = '';
 		let _15_3 = 1;
 
