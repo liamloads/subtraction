@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"twexxor-addition-calculator": "1.0.4"
+		"twexxor-addition-calculator": "1.0.5"
 	},
 	"main": "twexxor-subtraction-calculator.js",
 	"name": "twexxor-subtraction-calculator",
