@@ -1,12 +1,13 @@
 {
 	"dependencies": {
-		"twexxor-addition-calculator": "1.0.8"
+		"twexxor-addition-calculator": "1.0.9"
 	},
+	"license": "Read license.md.",
 	"main": "twexxor-subtraction-calculator.js",
 	"name": "twexxor-subtraction-calculator",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/twexxor/javascript-addition-calculator.git"
 	},
-	"version": "1.0.6"
+	"version": "1.0.7"
 }
