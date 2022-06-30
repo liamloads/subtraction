@@ -3,16 +3,16 @@
 #### Description
 This is a fast and memory-efficient calculator tool for differences of big numbers with full precision.
 
-It's written in ANSI C and can be compiled as a lightweight binary on any operating system with any programming language that supports command line execution.
+It's written in C and can be compiled as a lightweight binary on any operating system with any programming language that supports command line execution.
 
 #### License
 [MIT License](https://github.com/twexxor/subtraction/blob/main/LICENSE)
 
 #### Size
-5.43 KB
+5.50 KB
 
 #### Version
-v1.0.0
+v1.0.1
 
 ## Installation
 
