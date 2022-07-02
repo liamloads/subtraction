@@ -8,12 +8,6 @@ It's written in C and can be compiled as a lightweight binary on any operating s
 #### License
 [MIT License](https://github.com/twexxor/subtraction/blob/main/LICENSE)
 
-#### Size
-5.50 KB
-
-#### Version
-v1.0.1
-
 ## Installation
 
 #### Linux
@@ -25,6 +19,14 @@ gcc -o twexxor-subtraction subtraction.c
 ```
 
 ## Usage
+
+#### Details
+
+The command line interface accepts 2 numeric parameters.
+
+The result is the first parameter subtracted by the second parameter.
+
+#### Examples
 
 ``` console
 ./twexxor-subtraction 1 10
