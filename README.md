@@ -22,7 +22,7 @@ gcc -o twexxor-subtraction subtraction.c
 
 #### Details
 
-The command line interface accepts 2 numeric parameters.
+The command line interface accepts two numeric parameters.
 
 The result is the first parameter subtracted by the second parameter.
 
