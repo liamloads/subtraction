@@ -13,9 +13,9 @@ It's written in C and can be compiled as a lightweight binary on any operating s
 #### Linux
 ``` console
 cd
-git clone https://github.com/twexxor/subtraction.git
+sudo git clone https://github.com/twexxor/subtraction.git
 cd subtraction
-gcc -o twexxor-subtraction subtraction.c
+sudo gcc -o twexxor-subtraction subtraction.c
 ```
 
 ## Usage
