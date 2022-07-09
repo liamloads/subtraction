@@ -3,7 +3,7 @@
 #### Description
 This is a fast and memory-efficient calculator tool for differences of big numbers with full precision.
 
-It's written in C and can be compiled as a lightweight binary to be used with any programming language that supports command line execution.
+It's written in C and can be compiled as a lightweight binary to use with any programming language that supports command line execution.
 
 #### License
 [MIT License](https://github.com/liamloads/subtraction/blob/main/LICENSE)
