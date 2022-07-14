@@ -13,9 +13,9 @@ It's written in C and can be compiled as a lightweight binary to use with any pr
 #### Linux
 ``` console
 cd
-sudo git clone https://github.com/liamloads/subtraction.git
+git clone https://github.com/liamloads/subtraction.git
 cd subtraction
-sudo gcc -o subtraction subtraction.c
+gcc -o subtraction subtraction.c
 ```
 
 ## Usage
