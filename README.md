@@ -6,7 +6,7 @@ This is the fastest command line tool for calculating differences of big numbers
 It's written in C with extreme efficiency and simplicity.
 
 #### License
-[MIT License](https://github.com/liamloads/subtraction/blob/main/LICENSE)
+[MIT License](https://github.com/liamloads/c-precision-subtraction/blob/main/LICENSE)
 
 ## Installation
 
