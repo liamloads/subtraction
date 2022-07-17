@@ -15,7 +15,7 @@ It's written in C with extreme efficiency and simplicity.
 cd
 git clone https://github.com/liamloads/c-precision-subtraction.git
 cd c-precision-subtraction
-gcc -o c-precision-subtraction c-precision-subtraction.c
+gcc -o c-precision-subtraction precision-subtraction.c
 ```
 
 ## Usage
